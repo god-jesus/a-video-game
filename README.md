@@ -1,2 +1,2 @@
-# a-video-game
-this is gonna be a video game
+# gladiators
+multiplayer gladiator manager type game
